@@ -1,5 +1,4 @@
 # sistema
 
-echo "hello world 456";
+echo "hello world";
 
-echo "hello world 789";
